@@ -12,7 +12,6 @@ Containing both AMC exam preparation datasets and pre-processed vector embedding
 2. **Fine-tuning Process**
    - Uses supervised learning
    - Requires significantly less data than full model training
-   - Typically needs hundreds to thousands of examples
 
 3. **Benefits**
    - Better performance on specific tasks
