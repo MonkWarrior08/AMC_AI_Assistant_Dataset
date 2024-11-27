@@ -52,10 +52,6 @@ python main.py
 - Type your message and press Enter to interact with the assistant
 - Type 'quit', 'exit', or 'bye' to end the conversation
 
-## Important Notes
-- Ensure your OpenAI API key has sufficient credits
-- Keep your API key and assistant ID secure
-- The fine-tuning process may take some time to complete
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
