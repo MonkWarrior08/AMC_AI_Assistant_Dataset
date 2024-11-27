@@ -1,10 +1,8 @@
+# AMC AI Assistant
 
 A simple Python interface for interacting with OpenAI's Assistant API. This project provides a command-line chat interface that allows users to communicate with an OpenAI Assistant.
 Containing both AMC exam preparation datasets and pre-processed vector embeddings, paired with GPT-4o fine-tuning implementations, enabling medical students to leverage vectorized question banks and domain-specific language models for enhanced exam preparation.
 
-# AMC AI Assistant
-
-An AI assistant powered by OpenAI's API, specifically fine-tuned for AMC-related interactions.
 
 ## Setup Instructions
 
