@@ -14,8 +14,8 @@ Containing both AMC exam preparation datasets and pre-processed vector embedding
    - Batch size: 1
 
 ### 2. Vector Store Creation
-1. Upload your knowledge base to create a vector store storage
-2. This will be used to enhance the assistant's response capabilities
+1. Download the provided vectore data and upload on the OpenAI plaftform to create a vector store storage
+2. This will be used to enhance the assistant's response capabilities according to the AMC guideline.
 
 ### 3. Assistant Creation
 1. Go to the [OpenAI Platform](https://platform.openai.com/)
