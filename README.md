@@ -10,8 +10,8 @@ Containing both AMC exam preparation datasets and pre-processed vector embedding
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/MonkWarrior08/DeepTutor-AI.git
-cd DeepTutor-AI
+git clone https://github.com/MonkWarrior08/AMC_Assistant_ExamPrep.git
+cd AMC_Assistant_ExamPrep
 ```
 
 2. Install dependencies using the requirements file:
@@ -57,7 +57,7 @@ OPENAI_API_KEY=your-api-key-here
 ```bash
 python main.py
 ```
-- Type 'quit', 'exit', or 'bye' to end the conversation
+4. Type 'quit', 'exit', or 'bye' to end the conversation
 
 
 
