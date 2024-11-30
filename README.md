@@ -57,9 +57,13 @@ OPENAI_API_KEY=your-api-key-here
 ```bash
 python main.py
 ```
-4. Type 'quit', 'exit', or 'bye' to end the conversation
-
-
+## Usage
+1. Get assistance with:
+- AMC related concepts
+- Exam preparation design
+- Exam question
+- Implementation guidance
+2. Exit by typing 'quit', 'exit', or 'bye'
 
 
 
