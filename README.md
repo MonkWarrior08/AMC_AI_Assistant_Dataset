@@ -59,10 +59,10 @@ python main.py
 ```
 ## Usage
 1. Get assistance with:
-- AMC related concepts
-- Exam preparation design
-- Exam question
-- Implementation guidance
+   - AMC related concepts
+   - Exam preparation design
+   - Exam question
+   - Implementation guidance
 2. Exit by typing 'quit', 'exit', or 'bye'
 
 
