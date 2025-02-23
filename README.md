@@ -16,19 +16,12 @@ Containing both AMC exam preparation datasets and pre-processed vector embedding
 1. Download the provided vectore data and upload on the OpenAI plaftform to create a vector store storage
 2. This will be used to enhance the assistant's response capabilities according to the AMC guideline.
 
-### 3. Assistant Configuration
+### Assistant Configuration
 1. Create a new assistant
 2. Select the fine-tuned model
 3. Connect the vector storage
 4. Save the assistant ID
 
-### 4. Application Setup
-1. Open `main.py`
-2. Replace the empty `assistant_id` variable with your assistant ID
-3. Run the application:
-```bash
-python main.py
-```
 ## Usage
 1. Get assistance with:
    - AMC related concepts
